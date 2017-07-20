@@ -1,0 +1,10 @@
+/Users/liangzelu/test/test/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/liangzelu/test/test/bin/Debug/test.pdb
+/Users/liangzelu/test/test/bin/Debug/test.exe
+/Users/liangzelu/test/test/obj/x86/Debug/test.exe
+/Users/liangzelu/test/test/obj/x86/Debug/test.pdb
+/Users/liangzelu/Console Blackjack/test/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/liangzelu/Console Blackjack/test/bin/Debug/test.pdb
+/Users/liangzelu/Console Blackjack/test/bin/Debug/test.exe
+/Users/liangzelu/Console Blackjack/test/obj/x86/Debug/test.exe
+/Users/liangzelu/Console Blackjack/test/obj/x86/Debug/test.pdb
